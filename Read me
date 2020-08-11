@@ -1,0 +1,9 @@
+In this project I had created json server for mutating the data.
+before start the project got to src
+ run command   json-server --watch db.json
+ start it on port 3000
+ 
+ after that run the project.
+ 
+ when you click on edit button the one form will be open you can edit it which you want.
+ it will be edited when you cancle the form then updated things will be visible in the list
